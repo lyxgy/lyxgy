@@ -1,5 +1,13 @@
 # About me 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.005.tv/uploads/compress/allimg/170110/1116361R2-7.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.005.tv/uploads/compress/allimg/170110/1116361R2-7.jpg">
+ <img alt="莉莉艾" src="https://www.005.tv/uploads/compress/allimg/170110/1116361R2-7.jpg">
+</picture>
+
+
+
 
 **lyxgy/lyxgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
