@@ -22,8 +22,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: man
 - ⚡ Fun fact: ping-pang ball、run、write fiction
 
+<details open>
+<summary>my top language</summary>
+ 
 |Rank|language|
 |---:|--------|
 |1   |c       |
 |2   |c++     |
 |3   |python  |
+
+</details>
+
+---
+> if t.
+
